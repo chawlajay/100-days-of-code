@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: Tuesday, January 4th, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through Segment tree implementations from [cp-algorithms](https://cp-algorithms.com/data_structures/segment_tree.html).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Segment trees are very useful when it comes to range queries problems in competitive programming.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**
+1. [Max queries, sum queries, and many more](https://github.com/chawlajay/algorithms_cpp/tree/main/segmentTrees)
