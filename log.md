@@ -19,3 +19,15 @@
 
 **Link to work**
 1. [prefix search, first greater element, subsegment with max sum](https://github.com/chawlajay/algorithms_cpp/tree/main/segmentTrees)
+
+### Day 3: Thursday, January 6th, 2022
+
+**Today's Progress**: 
+1. Learned and practised about git branches
+2. Solved 2 problems on SPOJ
+
+**Thoughts** Git branches is very deep when it comes to local, remote, tracking and non-tracking branches, you get messed up if you don't revise and use it frequently.
+**Links I refered to for git branches**
+1.  [Github repo](https://t.co/hTtH3AFBeF)
+2.  [StackOverFlow Answer](https://t.co/8Sogo6KHMN)
+3.  [Video](https://t.co/GssbOXnTfP)
