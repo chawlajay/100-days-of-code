@@ -27,6 +27,7 @@
 2. Solved 2 problems on SPOJ
 
 **Thoughts** Git branches is very deep when it comes to local, remote, tracking and non-tracking branches, you get messed up if you don't revise and use it frequently.
+
 **Links I refered to for git branches**
 1.  [Github repo](https://t.co/hTtH3AFBeF)
 2.  [StackOverFlow Answer](https://t.co/8Sogo6KHMN)
