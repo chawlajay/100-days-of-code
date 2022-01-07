@@ -32,3 +32,18 @@
 1.  [Github repo](https://t.co/hTtH3AFBeF)
 2.  [StackOverFlow Answer](https://t.co/8Sogo6KHMN)
 3.  [Video](https://t.co/GssbOXnTfP)
+
+### Day 4: Friday, January 7th, 2022
+
+**Today's Progress**: 
+1. Learned and practised about some classical segment trees questions like:
+- Range addition updates & get array element value
+- Range assignment updates
+- Range addition updates & maximum in a range
+
+**Thoughts** Above questions are very popular and implemented using lazy propogation.
+
+**Link I refered to for segment trees**
+[cp-algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
+
+
