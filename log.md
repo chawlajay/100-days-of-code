@@ -46,4 +46,15 @@
 **Link I refered to for segment trees**
 [cp-algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
 
+### Day 5: Saturday, January 8th, 2022
+
+**Today's Progress**: 
+1. Learned about registering and login users using MongoDB
+2. Password encryption and Hashing using npm packages like md5
+3. Worked upon my project
+
+**Thoughts** Above questions are very popular and implemented using lazy propogation.
+
+**My current project link**
+[Dynamic_todo_list](https://github.com/chawlajay/Dynamic_TODO_List)
 
