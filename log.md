@@ -58,3 +58,26 @@
 **My current project link**
 [Dynamic_todo_list](https://github.com/chawlajay/Dynamic_TODO_List)
 
+### Day 6: Sunday, January 9th, 2022
+
+**Today's Progress**: 
+1. Learned about authentication using node.js & express.js and Hashing using npm package 'bcrypt'
+2. Worked upon my project
+
+**Thoughts** bcrypt is very powerful after md5 for hashing and salting.
+
+### Day 5: Saturday, January 8th, 2022
+
+**Today's Progress**: 
+1. Learned about cookies & sessions in terms of MERN
+2. Worked upon my personal project: Dynamic ToDo List
+  - played around with gradients in CSS
+  - added a favicon icon (which is really awesome)
+
+**Thoughts** sessions and cookies are both very important when it comes to authentication, safety and user distinction.
+
+**My current project link**
+[Free icons - Flaticon](https://www.flaticon.com/)
+[png to ico converter](https://cloudconvert.com/png-to-ico)
+[an issue with chrome and favicon icon](https://stackoverflow.com/questions/13780402/html-favicon-ico-wont-show-on-google-chrome)
+
