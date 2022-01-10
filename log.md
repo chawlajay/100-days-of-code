@@ -66,7 +66,7 @@
 
 **Thoughts** bcrypt is very powerful after md5 for hashing and salting.
 
-### Day 5: Saturday, January 8th, 2022
+### Day 7: Monday, January 10th, 2022
 
 **Today's Progress**: 
 1. Learned about cookies & sessions in terms of MERN
@@ -77,7 +77,7 @@
 **Thoughts** sessions and cookies are both very important when it comes to authentication, safety and user distinction.
 
 **My current project link**
-[Free icons - Flaticon](https://www.flaticon.com/)
-[png to ico converter](https://cloudconvert.com/png-to-ico)
-[an issue with chrome and favicon icon](https://stackoverflow.com/questions/13780402/html-favicon-ico-wont-show-on-google-chrome)
+- [Free icons - Flaticon](https://www.flaticon.com/)
+- [png to ico converter](https://cloudconvert.com/png-to-ico)
+- [an issue with chrome and favicon icon](https://stackoverflow.com/questions/13780402/html-favicon-ico-wont-show-on-google-chrome)
 
