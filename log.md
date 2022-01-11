@@ -76,8 +76,25 @@
 
 **Thoughts** sessions and cookies are both very important when it comes to authentication, safety and user distinction.
 
-**My current project link**
+**Some useful links**
 - [Free icons - Flaticon](https://www.flaticon.com/)
 - [png to ico converter](https://cloudconvert.com/png-to-ico)
 - [an issue with chrome and favicon icon](https://stackoverflow.com/questions/13780402/html-favicon-ico-wont-show-on-google-chrome)
 
+### Day 8: Tuesday, January 11th, 2022
+
+**Today's Progress**: 
+1. Learned about authentication using Passport with mongoose
+2. Started a VanillaJS Recipe-app
+
+**Thoughts** you'll need these packages to use passport with mongoose in your node-express app. 
+- passport
+- express-session
+- passport-local
+- passport-local-mongoose
+
+**My current project link**
+- [Force horizontal scrolling](https://stackoverflow.com/questions/9707807/how-to-force-horizontal-scrolling-in-an-html-list-using-css)
+- [Hide scroll bar](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
+- [White-space property](https://css-tricks.com/almanac/properties/w/whitespace/)
+- [Free meal API](https://themealdb.com/api.php)
