@@ -98,3 +98,15 @@
 - [Hide scroll bar](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 - [White-space property](https://css-tricks.com/almanac/properties/w/whitespace/)
 - [Free meal API](https://themealdb.com/api.php)
+
+### Day 9: Wednesday, January 12th, 2022
+
+**Today's Progress**: 
+1. Completed VanillaJS Recipe-app
+
+**Thoughts** this project provides the revision of async & await, fetch, playing with public API, word-break, overflow, event listeners, etc
+
+**Some links**
+- [My Recipe-app repository](https://github.com/chawlajay/JavaScript_projects/tree/master/recipe-app)
+- [YT tutorial](https://youtu.be/dtKciwk_si4)
+
