@@ -110,3 +110,22 @@
 - [My Recipe-app repository](https://github.com/chawlajay/JavaScript_projects/tree/master/recipe-app)
 - [YT tutorial](https://youtu.be/dtKciwk_si4)
 
+### Day 10: Thursday, January 13th, 2022
+
+**Today's Progress**: 
+1. Completed a simple mark-down notes app using three siblings (HTML,CSS and VanillaJS)
+(uses local storage to save notes)
+
+**Thoughts** Used [Marked JS](https://marked.js.org/) with [CDN](https://cdnjs.com/libraries/marked)
+
+**Some links**
+- [My Notes-app repository](https://github.com/chawlajay/JavaScript_projects/tree/master/notes-app)
+- [YT tutorial](https://youtu.be/dtKciwk_si4)
+
+### Day 11: Friday, January 14th, 2022
+
+**Today's Progress**: 
+1. Started revision on fundamentals of JavaScript as a quick warm-up before starting a new course.
+(DOM, chaining, promises, OOP, and more...)
+
+**Thoughts** Back to square one.
