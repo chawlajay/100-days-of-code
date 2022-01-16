@@ -129,3 +129,25 @@
 (DOM, chaining, promises, OOP, and more...)
 
 **Thoughts** Back to square one.
+
+### Day 12: Saturday, January 15th, 2022
+
+**Today's Progress**: 
+1. Completed a small todo-app using only HTML,CSS and VanillaJS.
+- learned about 'contextmenu' , i.e. Right Click eventListener.
+
+**Some Links**
+- [My Github repo](https://github.com/chawlajay/JavaScript_projects/tree/master/todo-app)
+- [Right-Click event](https://developer.mozilla.org/en-US/docs/Web/API/Element/contextmenu_event)
+- [Tutorial by @florinpop1705 on YouTube](https://youtu.be/dtKciwk_si4)
+ 
+### Day 13: Sunday, January 16th, 2022
+
+**Today's Progress**: 
+1. Completed a movie app that fetches movies using TMDB API. (you can even search movies)
+- TMDB API is so awesome that your website can have dozens of features.
+
+**Some Links**
+- [The Movie DataBase API](https://developers.themoviedb.org/3/getting-started)
+- [Github repo](https://github.com/chawlajay/JavaScript_projects/tree/master/movie-app)
+
