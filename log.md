@@ -151,3 +151,13 @@
 - [The Movie DataBase API](https://developers.themoviedb.org/3/getting-started)
 - [Github repo](https://github.com/chawlajay/JavaScript_projects/tree/master/movie-app)
 
+### Day 14: Monday, January 17th, 2022
+
+**Today's Progress**: 
+1. Completed a github-profiles app that fetches data from GitHub API. (dozens of data is available via API)
+2. Implemented passport-google-oauth2
+
+**Some Links**
+- [github-app repo link](https://github.com/chawlajay/JavaScript_projects/tree/master/github-profiles)
+- [read on passport serialize-deserialize (like packing and unboxing)](https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
+- [Github API](https://api.github.com)
